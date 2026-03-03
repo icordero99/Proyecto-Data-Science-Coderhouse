@@ -15,7 +15,7 @@ El proyecto incluye:
 ## 📂 Dataset
 - Dataset original ubicado en data/raw/
 - Datos procesados en data/processed/
-- Variable objetivo: presencia o ausencia de ACV
+- Variable objetivo: presencia (1) o ausencia (0) de ACV
 
 ## 🛠️ Herramientas utilizadas
 - Python
