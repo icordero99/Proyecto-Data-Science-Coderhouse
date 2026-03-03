@@ -25,7 +25,7 @@ El proyecto incluye:
 - Seaborn
 - Scikit-learn
 
-## Cómo ejecutar el proyecto
+## ✅ Cómo ejecutar el proyecto
 1. Clonar el repositorio
 2. Instalar dependencias (requirements.txt)
 3. Ejecutar los notebooks en orden
