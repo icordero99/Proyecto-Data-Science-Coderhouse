@@ -1,4 +1,4 @@
-# Preddición de ACV a través de Machine Learning
+# Predicción de ACV a través de Machine Learning
 
 ## 🔍 Descripción del Proyecto
 En este proyecto se realizará un análisis sobre el dataset '05_ACV_prediction.csv', el cual cuenta con más de 5000 registros de diferentes pacientes. En el mismo se incluye información demográfica (género, edad, trabajo, vivienda y si alguna vez se casó) y clínica (glucosa, IMC, si es fumador o no, hipertensión, enfermedad del corazón), también se encuentra la información principal, que es si el paciente tuvo o no un ACV.
