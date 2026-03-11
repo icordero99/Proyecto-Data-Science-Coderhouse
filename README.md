@@ -29,4 +29,4 @@ El proyecto incluye:
 ## ✅ Cómo ejecutar el proyecto
 1. Clonar el repositorio o descargar el archivo "ProyectoFinalDS.zip"
 2. Instalar dependencias (requirements.txt)
-3. Ejecutar los notebooks en orden
+3. Ejecutar los notebooks en orden (usar Jupyter Notebook, Google Collab o entorno de preferencia)
